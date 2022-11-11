@@ -15,39 +15,65 @@ SECCIÓN 1–2 Notación científica
 3.	Exprese cada uno de los números siguientes en notación científica:
 ![image](https://user-images.githubusercontent.com/117738904/201253083-8ddd4e06-4910-4509-a1c3-58fc95cdafee.png)
 
+5.Exprese cada uno de los números siguientes en notación científica:
 
-5.	Exprese cada uno de los números siguientes en notación científica:
-![image](https://user-images.githubusercontent.com/117738904/201251612-5f61468f-fb52-4576-a66a-dcb2e154ccff.png)
-7.	Exprese cada uno de los números siguientes como un número decimal regular:
-![image](https://user-images.githubusercontent.com/117738904/201251666-32fba519-7c2f-49af-ae81-05f589f73d4d.png)
-9.	Sume los números siguientes:
-![image](https://user-images.githubusercontent.com/117738904/201251738-dd5456fa-00a0-48e4-b2a4-766f6412b5d9.png)
-11.	Realice las siguientes multiplicaciones:
-![image](https://user-images.githubusercontent.com/117738904/201251903-b95a9348-29f4-4cd6-8858-df5436e05204.png)
+![image](https://user-images.githubusercontent.com/117738904/201253831-7caf3ea5-31fc-4d08-81a5-cf6e6f47e4c6.png)
+
+7.Exprese cada uno de los números siguientes como un número decimal regular:
+
+![image](https://user-images.githubusercontent.com/117738904/201253905-a0dcf53f-2425-49b4-9a25-6a0eb84f9085.png)
+
+9.Sume los números siguientes:
+
+![image](https://user-images.githubusercontent.com/117738904/201253954-422a566b-ac1c-442d-9e05-2cfef7f9002f.png)
+
+11.Realice las siguientes multiplicaciones:
+
+![image](https://user-images.githubusercontent.com/117738904/201254056-9f0d332b-2a78-455d-94ce-c84db7650d37.png)
 
 SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
-13.  Exprese cada uno de los números siguientes en notación de ingeniería:
-![image](https://user-images.githubusercontent.com/117738904/201252033-336783d2-46a7-4efe-862e-f5e2ad4ef3ab.png)
- 15 Exprese cada número en notación de ingeniería:
- ![image](https://user-images.githubusercontent.com/117738904/201252067-88a211a9-f2d4-4f82-9ba1-59de422193b4.png)
-17.   Sume los números siguientes y exprese cada resultado en notación de ingeniería:
-![image](https://user-images.githubusercontent.com/117738904/201252125-ce762256-5521-453e-a61d-9c353c1641b4.png)
-19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
-![image](https://user-images.githubusercontent.com/117738904/201252163-778084b7-f3f5-48df-a3e3-635c9beb71e5.png)
-21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
-![image](https://user-images.githubusercontent.com/117738904/201252219-d683d03f-e6e9-4227-8072-5e05c00df009.png)
-23.  Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
-![image](https://user-images.githubusercontent.com/117738904/201252420-b55b3b14-c27e-4ba7-808c-5d062c8a67b5.png)
-25.   Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
-![image](https://user-images.githubusercontent.com/117738904/201252525-2a5becf2-866c-4c62-9366-7b760e96dd05.png)
-27. Realice las conversiones indicadas:
-![image](https://user-images.githubusercontent.com/117738904/201252611-4ba9b006-a3c1-476c-9f91-464fae7bc605.png)
-29.  Sume las siguientes cantidades:
-![image](https://user-images.githubusercontent.com/117738904/201252669-f843705e-7126-4258-b301-30c38acc727e.png)
 
+13.Exprese cada uno de los números siguientes en notación de ingeniería:
+
+![image](https://user-images.githubusercontent.com/117738904/201254149-17f5ff1a-f78f-443b-8d9d-ba69d2918611.png)
+
+15 Exprese cada número en notación de ingeniería:
+
+![image](https://user-images.githubusercontent.com/117738904/201254199-ae19dd76-66e8-4860-89d3-75011b32aa5b.png)
+
+17. Sume los números siguientes y exprese cada resultado en notación de ingeniería
+
+![image](https://user-images.githubusercontent.com/117738904/201254289-c28eae9c-11c1-49b5-8c74-5ea372816e5d.png)
+
+19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
+
+![image](https://user-images.githubusercontent.com/117738904/201254382-0dc8ca89-2fb0-4c68-bd28-3dffbeac6e5c.png)
+
+21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
+
+![image](https://user-images.githubusercontent.com/117738904/201254427-75e2e2e2-20c4-4bc7-82d2-10e01282f626.png)
+
+23.  Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+
+![image](https://user-images.githubusercontent.com/117738904/201254469-9fa92faf-db40-457d-8e31-0dc94eafa7d4.png)
+
+25.   Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
+
+![image](https://user-images.githubusercontent.com/117738904/201254582-a9b8db10-7931-4edf-a7ec-2bad5e247802.png)
+
+27. Realice las conversiones indicadas:
+
+![image](https://user-images.githubusercontent.com/117738904/201254650-320fccd5-dbc1-478d-b8f9-bee644051821.png)
+
+29.  Sume las siguientes cantidades:
+
+![image](https://user-images.githubusercontent.com/117738904/201254720-c304f3c2-d031-4df2-96c5-ab84f920cb51.png)
 
 SECCIÓN 2–2 Carga eléctrica
 1.	¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+
+
+
 
 
    
