@@ -106,6 +106,35 @@ SECCIÓN 2–3 Voltaje, corriente y
 ![image](https://user-images.githubusercontent.com/117738904/201255486-7e565a51-294d-41c2-9df9-6a69f743e381.png)
 
 
+SECCIÓN 2–4 Fuentes de voltaje y de corriente
+
+17. Enliste cuatro fuentes de voltaje comunes.
+
+![image](https://user-images.githubusercontent.com/117738904/201255593-e424a7d8-701b-4eb3-b2b9-0719a68e0233.png)
+
+19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+
+![image](https://user-images.githubusercontent.com/117738904/201255657-fdf9ee20-75a5-4ff2-9c52-69a0b706333e.png)
+
+SECCIÓN 2–5 Resistores
+
+21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+
+![image](https://user-images.githubusercontent.com/117738904/201255710-bd7f4007-c8c2-403f-8759-4c77b1ccc45e.png)
+
+23 Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de
+Tolerancia
+
+![image](https://user-images.githubusercontent.com/117738904/201255754-6cf709e2-1ed7-4355-80d6-6dd20854a02e.png)
+
+25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+
+![image](https://user-images.githubusercontent.com/117738904/201255805-3d38cb8d-5535-4f76-a398-90df4848c12e.png)
+
+27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que  cada resistor tiene tolerancia del 1 por ciento.
+
+![image](https://user-images.githubusercontent.com/117738904/201255838-351bc19e-4bbc-4b38-b247-9174959facce.png)
+
 
 
    
