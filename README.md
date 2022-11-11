@@ -1,3 +1,9 @@
+INFORME # 1 
+
+NOMBRE: Alexis Grijalva
+
+FECHA: 2022/11/11
+
 
 1. OBJETIVOS
 - Conocer los simbolos y prefijos que se utilizan en los circuitos eléctricos
@@ -257,5 +263,9 @@ SECCIÓN 2–7 Mediciones de circuito básicas
 
 
 6. Bibliografía
+
+- Pina, S. (2018). Toda Materia. Notación científica. Recuperado el 10 de noviembre de 2022, de https://www.todamateria.com/notacion-cientifica/
+
+- Dominguez, E. y Ferrer, J. (2019). Circuitos eléctricos básicos. Recuperado el 10 de noviembre de 2022, de: https://books.google.com.ec/books?op=lookup&id=iFSkDwAAQBAJ&continue=https://books.google.com.ec/books%3Fid%3DiFSkDwAAQBAJ%26printsec%3Dfrontcover%26dq%3Dcircuitos%2Belectricos%26hl%3Des%26sa%3DX%26redir_esc%3Dy&hl=es
 
 
