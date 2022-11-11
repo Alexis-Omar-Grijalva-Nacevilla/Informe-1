@@ -153,5 +153,37 @@ SECCIÓN 2–6 El circuito eléctrico
 VS1 conectada a R1 y VS2 conectada a R2
 o VS1 conectada a R2 y VS2 conectada a R1
 
+![image](https://user-images.githubusercontent.com/117738904/201256094-03ac2b1c-a518-446d-87c0-282ef88d73d3.png)
+
+SECCIÓN 2–7 Mediciones de circuito básicas
+
+37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
+
+![image](https://user-images.githubusercontent.com/117738904/201256162-f784daa1-ef7b-41bb-9fb5-15a80c7dfb43.png)
+
+39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
+
+![image](https://user-images.githubusercontent.com/117738904/201256185-539beac6-a543-4a78-a996-a832abfc1922.png)
+
+41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
+
+![image](https://user-images.githubusercontent.com/117738904/201256241-27f7dea3-67e9-4080-9ebb-0973792e122e.png)
+
+43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+
+![image](https://user-images.githubusercontent.com/117738904/201256309-f9dd080f-a1e6-41fc-b117-05db93a23f91.png)
+
+45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro
+
+![image](https://user-images.githubusercontent.com/117738904/201256362-0fac7ff1-fac9-4dd9-8c2f-a323bee11e1f.png)
+
+47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
+
+
+![image](https://user-images.githubusercontent.com/117738904/201256456-c529c716-1ed9-484e-b499-99a795b2bd18.png)
+
+
+![image](https://user-images.githubusercontent.com/117738904/201256487-aae8ddbe-14ad-409a-8a59-600d2824328e.png)
+
 
    
