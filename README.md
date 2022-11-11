@@ -252,7 +252,7 @@ SECCIÓN 2–7 Mediciones de circuito básicas
 
    4. Video
    
-   
+   https://www.youtube.com/watch?v=ownN8zSWd6A
    
    
    5. Conclusiones
