@@ -13,8 +13,8 @@ SECCIÓN 1–2 Notación científica
 ![image](https://user-images.githubusercontent.com/117738904/201251368-6b50055c-890e-412c-ab59-242a696613eb.png)
 
 3.	Exprese cada uno de los números siguientes en notación científica:
-	
-5.	![image](https://user-images.githubusercontent.com/117738904/201251450-40a9c55b-7a02-4c36-be50-1e482c9100ac.png)
+![image](https://user-images.githubusercontent.com/117738904/201253083-8ddd4e06-4910-4509-a1c3-58fc95cdafee.png)
+
 
 5.	Exprese cada uno de los números siguientes en notación científica:
 ![image](https://user-images.githubusercontent.com/117738904/201251612-5f61468f-fb52-4576-a66a-dcb2e154ccff.png)
