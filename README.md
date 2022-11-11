@@ -244,4 +244,18 @@ SECCIÓN 2–7 Mediciones de circuito básicas
 ![image](https://user-images.githubusercontent.com/117738904/201256487-aae8ddbe-14ad-409a-8a59-600d2824328e.png)
 
 
+   4. Video
    
+   
+   
+   
+   5. Conclusiones
+   
+   - Es de suma importancia conocer y manejar las unidades del Sistema Internacional así como los prefijos, para poder realizar una correcta conversión y obtener los resultados adecuados al momento de realizar una práctica.
+   - Para reforzar los conocimientos es importante realizar los ejercicios propuestos, con ello se aplica la parte teórica y se tiene una visión más amplia para realizar las prácticas experimentales en el laboratorio.
+   - Es fundamental conocer los elementos que intervienen en un circuito eléctrico, ya que son la base para entender el funcionamiento de la electrónica y sus diversas aplicaciones en la vida real.
+
+
+6. Bibliografía
+
+
