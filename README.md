@@ -135,6 +135,23 @@ Tolerancia
 
 ![image](https://user-images.githubusercontent.com/117738904/201255838-351bc19e-4bbc-4b38-b247-9174959facce.png)
 
+29. ¿Cuál es la resistencia indicada por 4K7?
+
+![image](https://user-images.githubusercontent.com/117738904/201255921-824a2e64-a865-4b49-9609-2c89cf87fcb0.png)
+
+SECCIÓN 2–6 El circuito eléctrico
+
+31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2
+
+![image](https://user-images.githubusercontent.com/117738904/201255974-bcb0b41b-66dd-4603-be09-8a78efa0f9ff.png)
+
+33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
+
+![image](https://user-images.githubusercontent.com/117738904/201256009-308bb54a-a5ab-4793-a002-b2b86da056a9.png)
+
+35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
+VS1 conectada a R1 y VS2 conectada a R2
+o VS1 conectada a R2 y VS2 conectada a R1
 
 
    
