@@ -72,6 +72,38 @@ SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 SECCIÓN 2–2 Carga eléctrica
 1.	¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 
+![image](https://user-images.githubusercontent.com/117738904/201254854-cc625361-dbf6-4d4a-832f-94fc884e5bc3.png)
+
+3.¿Cuántos coulombs de carga poseen 50*〖10〗^31 electrones?
+
+![image](https://user-images.githubusercontent.com/117738904/201255178-752fb0cc-f7cc-45f3-86de-21b6870d8834.png)
+
+SECCIÓN 2–3 Voltaje, corriente y 
+
+5.  Determine el voltaje en cada uno de los siguientes casos:
+
+![image](https://user-images.githubusercontent.com/117738904/201255246-3d3ec990-b805-4da4-8478-8a7461ec9ef2.png)
+
+
+7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+
+![image](https://user-images.githubusercontent.com/117738904/201255341-97afd5b4-80c1-4c15-a4d4-e8dc3f211c7f.png)
+
+9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+
+![image](https://user-images.githubusercontent.com/117738904/201255376-f0bf5155-3221-40b4-9234-b0f83fa5afa2.png)
+
+11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+
+![image](https://user-images.githubusercontent.com/117738904/201255418-7dbe420d-36f4-46b7-842e-8ef0cb69a45d.png)
+
+13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+
+![image](https://user-images.githubusercontent.com/117738904/201255450-91837c2e-8282-482c-adee-6e928e279920.png)
+
+15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
+
+![image](https://user-images.githubusercontent.com/117738904/201255486-7e565a51-294d-41c2-9df9-6a69f743e381.png)
 
 
 
