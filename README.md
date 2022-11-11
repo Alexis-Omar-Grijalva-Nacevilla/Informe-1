@@ -8,6 +8,59 @@
 
 
 2. MARCO TEÓRICO
+
+UNIDAD DE MEDICIÓN
+
+CORRIENTE ELÉCTRICA EN AMPERIOS (A)
+
+La unidad básica en electricidad es el Amperio (A), que expresa la cantidad de corriente eléctrica (I) que circula por un conductor.
+POTENCIAL ELÉCTRICO EN VOLTIOS (V)
+
+La magnitud que define la diferencia de potencial eléctrico entre dos puntos es la tensión (U), cuya unidad de medida es el Voltio (V). 
+
+POTENCIA ELÉCTRICA EN WATIOS (W)
+
+La potencia eléctrica (P) se mide en Vatios (W), y resulta matemáticamente del producto de la tensión (U) y la intensidad (I). 
+
+Notación científica
+
+La notación científica es la forma de escribir los números que son muy grandes o muy pequeño en una manera más conveniente y estandarizada.
+
+La notación científica significa que un número (entre el 1 y el 10) es multiplicado por una potencia de base 10. Por ejemplo, 3,1 x 10 ^2 es igual a 3,1 por 100=310
+
+Prefijos métricos
+
+En ciertos casos, particularmente en el uso científico, resulta conveniente proporcionar múltiplos mayores que 1000 y subdivisiones menores que una milésima. En consecuencia, se han introducido los siguientes prefijos y ahora se reconocen generalmente.
+
+![image](https://user-images.githubusercontent.com/117738904/201264262-e83cae03-b0fc-4a49-ace8-59b64a45a1b3.png)
+
+![image](https://user-images.githubusercontent.com/117738904/201265278-ca001243-c392-4fdc-92b3-3a99e2106e25.png)
+
+Capítulo 2 
+
+![image](https://user-images.githubusercontent.com/117738904/201266671-82278cb0-e982-4dc8-bb51-a92a181843c1.png)
+
+![image](https://user-images.githubusercontent.com/117738904/201267366-f752af7d-ca65-437b-85ea-a25dd9dbae07.png)
+
+![image](https://user-images.githubusercontent.com/117738904/201267908-ad871560-9727-4a43-9a9a-590e5a48a18e.png)
+
+Códigos de color para  resistores
+
+Un componente diseñado específicamente para que tenga cierta cantidad de resistencia se llama resistor. La aplicación principal de los resistores es limitar la corriente en un circuito, dividir el voltaje, y, en ciertos casos, generar calor.
+
+
+![image](https://user-images.githubusercontent.com/117738904/201268067-0a9cff7c-6edb-4070-9836-01fd978114fc.png)
+
+![image](https://user-images.githubusercontent.com/117738904/201268108-cf0f51d3-02ba-4b81-9038-9ea6619cd0f0.png)
+
+Circuito eléctrico
+
+De modo básico, un circuito se compone de una fuente de voltaje, una carga, y una trayectoria para la corriente que haya entre la fuente y la carga.
+
+![image](https://user-images.githubusercontent.com/117738904/201268744-64703676-0512-487a-a557-998b35308ea3.png)
+
+
+
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 CAPÍTULO 1
