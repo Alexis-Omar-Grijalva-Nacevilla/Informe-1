@@ -1,5 +1,10 @@
 
 1. OBJETIVOS
+- Conocer los simbolos y prefijos que se utilizan en los circuitos eléctricos
+- Reforzar los conocimie adquirido en  clase  mediante la resolución de ejercicios
+- Aprender el funcionamiento de un circuito eléctrico y todos los elementos que intervienen en el mismo.
+- Comprender el  uso de los apartos de medición que se utilizan en los circuitos eléctricos.
+
 
 
 2. MARCO TEÓRICO
